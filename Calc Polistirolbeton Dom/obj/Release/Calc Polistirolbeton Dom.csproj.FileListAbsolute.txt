@@ -1,0 +1,21 @@
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\bin\Release\Calc Polistirolbeton Dom.exe.config
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\bin\Release\Calc Polistirolbeton Dom.exe
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\bin\Release\Calc Polistirolbeton Dom.pdb
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.csproj.AssemblyReference.cache
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\MainWindow.g.cs
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\App.g.cs
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom_MarkupCompile.cache
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom_MarkupCompile.lref
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\MainWindow.baml
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.g.resources
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc_Polistirolbeton_Dom.Properties.Resources.resources
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.csproj.GenerateResource.cache
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.csproj.CoreCompileInputs.cache
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.csproj.Fody.CopyLocal.cache
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.csproj.CopyComplete
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.exe
+C:\dotnet\WPF\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\Calc Polistirolbeton Dom\obj\Release\Calc Polistirolbeton Dom.pdb
